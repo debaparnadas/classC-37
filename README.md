@@ -1,2 +1,2 @@
-# classC-37
-Making cars sprite, arranging the width and height of the screen and game camera
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
